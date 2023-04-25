@@ -1,5 +1,8 @@
 @import url(https://lsong.org/css/stylesheet.css);
+@import url(https://lsong.org/stylesheets/input.css);
+@import url(https://lsong.org/stylesheets/button.css);
 
-.headline {
-    font-family: system-ui, sans-serif;
+
+img {
+    width: 100%;
 }
